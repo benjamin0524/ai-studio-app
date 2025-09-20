@@ -1,0 +1,5 @@
+{
+  "name": "AI Restaurant Decider",
+  "description": "An AI-powered application to help you and your friends decide where to eat. Select by cuisine, mood, or let the random wheel choose for you!",
+  "requestFramePermissions": []
+}
